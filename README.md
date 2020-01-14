@@ -1,6 +1,3 @@
-# Fullstack_MIPT
- # FullStack MIPT
-
 # Online Trading Platform
 ## О
 * Этот проект, для курса по Фуллстеку 2019/20 года МФТИ 
